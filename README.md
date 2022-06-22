@@ -108,8 +108,6 @@ Environments are variables with key-values. Every variable name represents its k
 
 - Collections - It is the group of related requests which are displayed under the collection tab. We can also create a new collection. A Trash section from where you can recover your lost or deleted collections.
 
-<image src="sidebar.png" alt="Topsidebar">
-
 - APIs - All the APIs are listed in this section. New API can also be created from this tab.
 
 - Untitled Request - It is basically the default request title you are working on. The title depends on the type of request method.
