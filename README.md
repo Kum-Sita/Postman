@@ -62,3 +62,30 @@ API testing also tests the unit as part of a system, while unit testing typicall
 
 <image src="Unit Testing Vs API.png" alt="Unit Vs API">
 
+
+# Postman UI Terms 
+
+<image src="postman-navigation.jpg">
+
+- Request
+
+It is used to create a new request, where you can create and save requests by entering the request name and can use it in the future.
+
+- Collection
+
+It saves your requests in the form of a collection for reusing and sharing.
+
+- Environment
+
+Environments are variables with key-values. Every variable name represents its key. So if we reference the name of the variable, it enables us to access its corresponding value. So it basically saves the values you frequently use in an environment.
+
+- Documentation - to create documentation for API.
+
+- Mock server- to create in-development APIs.
+
+- Monitor- to test API performance.
+
+- API - for managing all aspects of APIs, including design, development, and testing.
+
+       - Import - the Import option for importing files in different formats into the software.
+       - Runner - helps to directly run the loaded collections in the Postman.
