@@ -34,7 +34,7 @@ The most commonly used HTTP methods are GET, POST, PUT, PATCH, HEAD, DELETE, and
 
 - Step-1: Go to the link https://www.postman.com/downloads/ and click download based on your operating system.
 
-<image src="postman-installation-and-updates.png"  alt= "intall">
+<image src="instal-update.png" alt="install">
 
 - Step-2: For downloading the app for Windows, click on the download button and select the particular version. 
 
