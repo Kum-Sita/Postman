@@ -24,3 +24,20 @@ HTTP (Hypertext Transfer Protocol) is the collection of rules for the transmissi
 Example: A user or browser enters the HTTP request to the server; the server then returns the user response. This response includes the request status information and may consist of the requested material as well.
 
 The most commonly used HTTP methods are GET, POST, PUT, PATCH, HEAD, DELETE, and OPTIONS.
+
+
+
+# Postman Install
+=> Steps to download and install the native Postman application -
+
+- Step-1: Go to the link https://www.postman.com/downloads/ and click download based on your operating system.
+
+<image src="postman-installation-and-updates.png"  alt= "intall">
+
+- Step-2: For downloading the app for Windows, click on the download button and select the particular version. 
+
+- Step-3: You can check the download progress on the bottom left if you are using the Chrome browser. Once the .exe file is downloaded, you need to install the application, as shown in the below image.
+
+- Step-4: Once the installation completes, you will be redirected to a window as shown in the image where you can click on Stop signing in and take me straight to the app (as this app can also be used without logging in) or otherwise you will get a new window to sign up.
+
+- 
