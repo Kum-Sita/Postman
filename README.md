@@ -108,3 +108,24 @@ Environments are variables with key-values. Every variable name represents its k
 
 <image src="sidebar.png" alt="Topsidebar">
 
+- APIs - All the APIs are listed in this section. New API can also be created from this tab.
+
+- Untitled Request - It is basically the default request title you are working on. The title depends on the type of request method.
+
+- HTTP request - It opens a drop-down list of all the HTTP request methods, like GET, DELETE, PATCH, OPTIONS, LINK, POST, COPY, UNLOCK, PURGE, etc. Widdely used POST and GET.
+
+- Request URL or Endpoint - It is like any other browser URL. Here, we mention the link to where the API will communicate with.
+
+- Params - It is used to write the parameters of the request. These parameters include key values and descriptions.
+
+- Authorization - It is required to access the APIs. This process verifies whether we have permission from the server to access the data we want. 
+
+- Headers - An HTTP request header is the additional data that is required to send along with the request. This header information is required for proper two-direction communication between the client and the server.
+
+- Body - It specify the data type that need to send with a request. There are various types of body data that can be sent to match your API.
+
+- Pre-request script - These are written in JavaScript, and executed before sending the request. Generally, these scripts are for setting the environment and ensuring that the request is running in the right environment.
+
+- Test scripts - It is executed during the request. It is also written in JavaScript. This helps to ensure that API works as intended. Testing is important as it sets up checkpoints to verify whether the response status is ok and retrieved data is as expected.
+
+- Response - The API responses which are sent back from the server are shown in the response window. These are generated after sending an API request to the server. 
