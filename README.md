@@ -96,7 +96,7 @@ Environments are variables with key-values. Every variable name represents its k
 
 - Open new icon - used to open a new Tab, a new Postman window, and a new Runner window.
 
-<image src="postman-navigation.jpg" alt="Navsidebar">
+<image src="sidenavbar.png" alt="navbar">
 
 - My Workspace - helps you to view, manage, and create personal as well as team workspaces. Collections, monitors, environments, and mocks are components of the workspace.
 
