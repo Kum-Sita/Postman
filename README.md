@@ -65,8 +65,7 @@ API testing also tests the unit as part of a system, while unit testing typicall
 
 # Postman UI Terms 
 
-<image src="navigation.png" alt="Navscreen">
-
+<image src="navigation.png" alt="navigation">
 
 - Request
 
