@@ -106,4 +106,5 @@ Environments are variables with key-values. Every variable name represents its k
 
 - Collections - It is the group of related requests which are displayed under the collection tab. We can also create a new collection. A Trash section from where you can recover your lost or deleted collections.
 
-<image src="nav.jpg" alt="sidebar">
+<image src="sidebar.png" alt="Topsidebar">
+
