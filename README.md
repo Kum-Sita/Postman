@@ -88,6 +88,8 @@ Environments are variables with key-values. Every variable name represents its k
 
 - API - for managing all aspects of APIs, including design, development, and testing.
 
+<image src="API.png" alt="API">
+
 - Import - the Import option for importing files in different formats into the software.
 
 - Runner - helps to directly run the loaded collections in the Postman.
@@ -129,3 +131,25 @@ Environments are variables with key-values. Every variable name represents its k
 - Test scripts - It is executed during the request. It is also written in JavaScript. This helps to ensure that API works as intended. Testing is important as it sets up checkpoints to verify whether the response status is ok and retrieved data is as expected.
 
 - Response - The API responses which are sent back from the server are shown in the response window. These are generated after sending an API request to the server. 
+
+
+
+# Sending First Request
+
+Sending a request is as easy as posting a URL into your web browser.
+An API request helps you to access, or send, data from a data source.
+
+To send the API request, we need an HTTP method. Some commonly used methods are POST, GET, DELETE, PUT, and PATCH.
+
+GET: This HTTP method is used to access the data from an API.
+
+POST: This method transmits new data.
+
+DELETE: This is used to remove or delete the existing data.
+
+PATCH: This method is used to update the existing data.
+
+PUT: This method is used to update the existing data.
+
+Without any terminal or code, we can make API requests and review the answers with the help of postman. 
+Just build a new request and select the send button, you'll get the API response.
