@@ -14,7 +14,6 @@ Postman is one of the most popular software testing tools which is used for API 
 - API
 Application Programming Interface (API) is software that acts as an intermediary for two apps to communicate with each other. We use APIs whenever we use an application like Twitter, Facebook, sending text messages, or checking the weather over the phone.
 
-image.png 
 
 
 - HTTP
