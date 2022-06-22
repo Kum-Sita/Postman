@@ -65,7 +65,8 @@ API testing also tests the unit as part of a system, while unit testing typicall
 
 # Postman UI Terms 
 
-<image src="postman-navigation.jpg">
+<image src="navigation.png" alt="Navscreen">
+
 
 - Request
 
@@ -87,5 +88,22 @@ Environments are variables with key-values. Every variable name represents its k
 
 - API - for managing all aspects of APIs, including design, development, and testing.
 
-       - Import - the Import option for importing files in different formats into the software.
-       - Runner - helps to directly run the loaded collections in the Postman.
+- Import - the Import option for importing files in different formats into the software.
+
+- Runner - helps to directly run the loaded collections in the Postman.
+
+- Open new icon - used to open a new Tab, a new Postman window, and a new Runner window.
+
+<image src="postman-navigation.jpg" alt="Navsidebar">
+
+- My Workspace - helps you to view, manage, and create personal as well as team workspaces. Collections, monitors, environments, and mocks are components of the workspace.
+
+- Sync icon - used to synchronize the API requests that we send from other devices and updates your postman account status.
+
+- Interceptor icon - It is a proxy server, used to capture all the requests that send through browser or phone or from any other device.
+
+- History - It automatically keeps a record of all API requests, just like any other browser. It keeps handy all your past searches.
+
+- Collections - It is the group of related requests which are displayed under the collection tab. We can also create a new collection. A Trash section from where you can recover your lost or deleted collections.
+
+<image src="nav.jpg" alt="sidebar">
