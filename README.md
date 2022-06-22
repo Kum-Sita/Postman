@@ -129,6 +129,8 @@ Environments are variables with key-values. Every variable name represents its k
 
 - Response - The API responses which are sent back from the server are shown in the response window. These are generated after sending an API request to the server. 
 
+<image src="Response_Box.png">
+
 
 
 # Sending First Request
