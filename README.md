@@ -146,14 +146,15 @@ POST: This method transmits new data.
 
 DELETE: This is used to remove or delete the existing data.
 
-
-# Some cool Learning resources - 
-- [API-Testing](https://www.youtube.com/watch?v=VywxIQ2ZXw4)
-
-- [How-to-write-API-Test](https://www.youtube.com/watch?v=Qlvbc6kIBOk)
 PATCH: This method is used to update the existing data.
 
 PUT: This method is used to update the existing data.
 
 Without any terminal or code, we can make API requests and review the answers with the help of postman. 
 Just build a new request and select the send button, you'll get the API response.
+ 
+ 
+ # Some cool Learning resources - 
+- [API-Testing](https://www.youtube.com/watch?v=VywxIQ2ZXw4)
+
+- [How-to-write-API-Test](https://www.youtube.com/watch?v=Qlvbc6kIBOk)
