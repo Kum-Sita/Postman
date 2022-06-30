@@ -146,6 +146,11 @@ POST: This method transmits new data.
 
 DELETE: This is used to remove or delete the existing data.
 
+
+# Some cool Learning resources - 
+- [API-Testing](https://www.youtube.com/watch?v=VywxIQ2ZXw4)
+
+- [How-to-write-API-Test](https://www.youtube.com/watch?v=Qlvbc6kIBOk)
 PATCH: This method is used to update the existing data.
 
 PUT: This method is used to update the existing data.
