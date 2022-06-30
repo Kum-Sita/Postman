@@ -154,7 +154,7 @@ Without any terminal or code, we can make API requests and review the answers wi
 Just build a new request and select the send button, you'll get the API response.
  
  
- # Some cool Learning resources - 
+ # Some Cool Learning resources - 
 - [API-Testing](https://www.youtube.com/watch?v=VywxIQ2ZXw4)
 
 - [How-to-write-API-Test](https://www.youtube.com/watch?v=Qlvbc6kIBOk)
