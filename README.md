@@ -13,6 +13,7 @@ Postman is one of the most popular software testing tools which is used for API 
 
 
 # Terms Used in Postman 
+
 - API
 Application Programming Interface (API) is software that acts as an intermediary for two apps to communicate with each other. We use APIs whenever we use an application like Twitter, Facebook, sending text messages, or checking the weather over the phone.
 
@@ -61,6 +62,7 @@ API testing primarily aims to test the business logic layer of the system's arch
 API testing also tests the unit as part of a system, while unit testing typically tests the unit in relative isolation from the rest of the system. 
 
 <image src="Unit Testing Vs API.png" alt="Unit Vs API">
+
 
 
 # Postman UI Terms 
@@ -130,6 +132,7 @@ Environments are variables with key-values. Every variable name represents its k
 - Response - The API responses which are sent back from the server are shown in the response window. These are generated after sending an API request to the server. 
 
 <image src="Response_Box.png">
+
 
 
 
